@@ -11,7 +11,7 @@
     <img src="https://github.com/modslides/.github/blob/main/logomarks/logomark-dark.png" alt="Modslides" width="384" height="128" style="width: 384px; height: 128px;">
   </a>
   <a href="https://modslides.netlify.app/#gh-dark-mode-only" target="_blank">
-    <img src="https://github.com/modslides/.github/blob/main/logomarks/logomark-dark.png" alt="Modslides" width="384" height="128" style="width: 384px; height: 128px;">
+    <img src="https://github.com/modslides/.github/blob/main/logomarks/logomark-light.png" alt="Modslides" width="384" height="128" style="width: 384px; height: 128px;">
   </a>
 </p>
 
