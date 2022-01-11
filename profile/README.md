@@ -29,7 +29,7 @@ With a Stack Exchange-like community, ask questions and get answers from other f
 
 ## 📚 Specialised moderation courses by the community.
 
-Watch or read specialised and trusted courses on the [Modslides Network](https://modslides.netlify.app/network). Perhaps, Modslides doesn't cover fine details about your specific platform. Network Courses will be your best tool to get through the toughest days, or simply to feed your curiosity.
+Watch or read specialised and trusted courses by one of Modslides' trusted Experts, called slides. Perhaps, even the Modslides Experts miss fine details about your specific topic or platform. Network Slides by the community will be your best tool to get through the toughest days, or simply to feed your curiosity.
 
 ## 🔧 For administrators and developers too.
 
