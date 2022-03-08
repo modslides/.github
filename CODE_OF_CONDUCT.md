@@ -60,6 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported to the community leaders responsible for enforcement at
+[sunshine@modslides.com](mailto:sunshine@modslides.com),
 [main@godder.xyz](mailto:main@godder.xyz),
 [godderseesyou@gmail.com](mailto:godderseesyou@gmail.com),
 [@TheE2D](https://twitter.com/TheE2D),

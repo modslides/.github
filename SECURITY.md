@@ -55,6 +55,6 @@ All other security vulnerabilities are in-scope and allowed to be tested, to a c
 
 ## Acceptance rewards
 
-You will get a **Bug Hunter** badge on the [Modslides Network](https://modslides.netlify.app/network).
+You will get a **Bug Hunter** badge on the [Modslides Network](https://modslides.com/network).
 
 We are currently unable to financially reward you for vulnerability reports for the foreseeable future.
