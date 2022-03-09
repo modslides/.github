@@ -20,21 +20,23 @@
 
 Moderation is a critical aspect of any user-generated community on the internet. Without proper moderation, the community will be prone to harassment, abuse, and chaos. Modslides help you moderate more efficiently, regardless of whether your site doesn't attract many visitors.
 
-## 📝 Learn moderation concepts.
+## 📝 Learn moderation concepts
 
-Whether you are a new moderator or an experienced moderator, we guarantee you'll learn something new and useful about moderation on Modslides. Oh, and it's also fully open-source and free! We believe that community interaction is important to interact our knowledge on anything and everything.
+Whether you are a new moderator or an experienced moderator, we guarantee you'll learn something new and useful about moderation on Modslides. Modslides is and supports open-source<sup>1</sup>, we believe that community interaction is important to foster a friendly and healthy community.
 
-## 🤔 Stuck? Ask a question on the [Modslides Network](https://modslides.com/network).
+###### <sup>1</sup> Modslides is currently closed-source for development, however, we are open to feedback!
 
-With a Stack Exchange-like community, ask questions and get answers from other fellow moderators, while gaining reputation to show your trustworthiness to other moderators, administrators, developers, and visitors. The Modslides Network is more than just another online forum. It's a community of moderators, waiting to help each other out.
+## 🤔 Stuck? Ask a question on the [Modslides Network](https://modslides.com/network)
 
-## 📚 Specialised moderation courses by the community.
+With a Stack Exchange-like community, ask questions and get answers from other fellow moderators, while gaining reputation to show your trustworthiness to other moderators, administrators, developers, and visitors. The Modslides Network is more than just another online forum. It's a community of moderators helping each other out.
 
-Watch or read specialised and trusted courses by one of Modslides' trusted Experts, called slides. Perhaps, even the Modslides Experts miss fine details about your specific topic or platform. Network Slides by the community will be your best tool to get through the toughest days, or simply to feed your curiosity.
+## 📚 Specialised moderation courses by the community
 
-## 🔧 For administrators and developers too.
+Watch or read specialised and trusted courses by one of our many Modslides' trusted Experts, called slides. Perhaps, even the Modslides Experts miss fine details about your specific topic or platform. Network Slides by the community will be your best tool to get through the toughest days, or simply to feed your curiosity.
 
-In the 21<sup>st</sup> century, human moderators isn't enough for user-generated content. Ensure your user-generated content abides by your community policies despite no moderators online. Use auto-moderation to your advantage, and enhance the experience with artificial intelligence and machine learning. Learn how to team up with your moderators to curate the safest community the world has seen.
+## 🔧 For administrators and developers too
+
+In the 21<sup>st</sup> century, human moderators isn't enough for user-generated content. Ensure your user-generated content abides by your community policies despite no moderators online. Use auto-moderation to your advantage, and enhance the experience with artificial intelligence and machine learning. Learn how to team up with your moderators to curate the safest community the world has ever seen.
 
 # 👀 Coming Soon
 
