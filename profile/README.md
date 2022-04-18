@@ -40,6 +40,6 @@ In the 21<sup>st</sup> century, human moderators isn't enough for user-generated
 
 # 👀 Coming Soon
 
-Modslides isn't available yet for public use. You'll be able to apply for the closed beta on the [Modslides temporary website](https://modslides.com) in Q2 2022. Check out the [Discord Moderator Academy](https://discord.com/moderation) while you wait.
+Modslides isn't available yet for public use. You'll be able to apply for the closed beta on the [Modslides temporary website](https://modslides.com) in late 2022 (estimate). Check out the [Discord Moderator Academy](https://discord.com/moderation) while you wait.
 
 [modslides.com](https://modslides.com) has been acquired as of 3/8/22 and is currently a redirect to [our GitHub organisation](https://github.com/modslides).
