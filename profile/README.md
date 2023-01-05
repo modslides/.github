@@ -22,9 +22,9 @@ Moderation is a critical aspect of any user-generated community on the internet.
 
 ## 📝 Learn moderation concepts
 
-Whether you are a new moderator or an experienced moderator, we guarantee you'll learn something new and useful about moderation on Modslides. Modslides is and supports open-source<sup>1</sup>, we believe that community interaction is important to foster a friendly and healthy community.
+Whether you are a new moderator or an experienced moderator, we guarantee you'll learn something new and useful about moderation on Modslides. Modslides supports open-source[^1], we believe that community interaction is important to foster a friendly and healthy community.
 
-###### <sup>1</sup> Modslides is currently closed-source for development, however, we are open to feedback!
+[^1]: Modslides is currently closed-source for development, however, we are open to feedback!
 
 ## 🤔 Stuck? Ask a question on the [Modslides Network](https://modslides.com/network)
 
@@ -40,6 +40,4 @@ In the 21<sup>st</sup> century, human moderators isn't enough for user-generated
 
 # 👀 Coming Soon
 
-Modslides isn't available yet for public use. You'll be able to apply for the closed beta on the [Modslides temporary website](https://modslides.com) in late 2022 (estimate). Check out the [Discord Moderator Academy](https://discord.com/moderation) while you wait.
-
-[modslides.com](https://modslides.com) has been acquired as of 3/8/22 and is currently a redirect to [our GitHub organisation](https://github.com/modslides).
+Modslides isn't available yet for public use. You'll be able to apply for the closed beta on the [Modslides temporary website](https://modslides.com) in late 2023 (estimate). Check out the [Discord Moderator Academy](https://discord.com/moderation) while you wait.
